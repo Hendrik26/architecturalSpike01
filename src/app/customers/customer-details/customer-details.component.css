@@ -1,0 +1,30 @@
+.flex-container-gray {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #eee;
+    padding: 5px;
+    margin-bottom: 5px;
+
+}
+
+.flex-container-gray > div {
+    margin-right: 20px;
+    text-align: left;
+    width: 12%;
+}
+
+.flex-container-corn {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #ee8;
+    padding: 5px;
+    margin-bottom: 5px;
+
+}
+
+.flex-container-corn > div {
+    margin-right: 20px;
+    text-align: left;
+    width: 12%;
+}
+

@@ -1,0 +1,15 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #7ee;
+    padding: 5px;
+    margin-bottom: 5px;
+
+}
+
+.flex-container > div {
+    margin-right: 20px;
+    text-align: left;
+    width: 15%;
+}
+
